@@ -1,0 +1,4 @@
+module AathoosCore {
+  header "include/aathoos_core.h"
+  export *
+}
